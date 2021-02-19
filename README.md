@@ -11,7 +11,11 @@ AbilityLine is a supportive online community of family members, therapists, and 
 **CEO:** Samuel Sharp
 
 **CFO:** Aanchal Chaudhary
+
 **CMO:** Sander Choi (Marketing - Consumer)
+
 **CPIO:** Deena Kahn (Public Information - Media/Press)
+
 **CHRO:** Anjali Kahn (Human Resources)
+
 **TD:** Bhumi Kumar (Testing)
